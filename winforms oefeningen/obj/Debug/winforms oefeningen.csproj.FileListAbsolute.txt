@@ -1,0 +1,10 @@
+C:\Users\mirce\source\repos\winforms oefeningen\winforms oefeningen\obj\Debug\winforms oefeningen.csprojAssemblyReference.cache
+C:\Users\mirce\source\repos\winforms oefeningen\winforms oefeningen\obj\Debug\winforms_oefeningen.Form1.resources
+C:\Users\mirce\source\repos\winforms oefeningen\winforms oefeningen\obj\Debug\winforms_oefeningen.Properties.Resources.resources
+C:\Users\mirce\source\repos\winforms oefeningen\winforms oefeningen\obj\Debug\winforms oefeningen.csproj.GenerateResource.cache
+C:\Users\mirce\source\repos\winforms oefeningen\winforms oefeningen\obj\Debug\winforms oefeningen.csproj.CoreCompileInputs.cache
+C:\Users\mirce\source\repos\winforms oefeningen\winforms oefeningen\bin\Debug\winforms oefeningen.exe.config
+C:\Users\mirce\source\repos\winforms oefeningen\winforms oefeningen\bin\Debug\winforms oefeningen.exe
+C:\Users\mirce\source\repos\winforms oefeningen\winforms oefeningen\bin\Debug\winforms oefeningen.pdb
+C:\Users\mirce\source\repos\winforms oefeningen\winforms oefeningen\obj\Debug\winforms oefeningen.exe
+C:\Users\mirce\source\repos\winforms oefeningen\winforms oefeningen\obj\Debug\winforms oefeningen.pdb
